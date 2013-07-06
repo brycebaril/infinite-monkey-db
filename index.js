@@ -1,4 +1,5 @@
 module.exports = query
+module.exports.query = query
 module.exports.debug = true
 module.exports.save = function () {
   if (module.exports.debug) {
