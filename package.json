@@ -1,0 +1,27 @@
+{
+  "name": "infinite-monkey-db",
+  "version": "0.0.0",
+  "description": "The eventually-correct database!",
+  "main": "index.js",
+  "dependencies": {
+    "readable-stream": "~1.0.2",
+    "stream-meter": "~1.0.0",
+    "timegap": "~0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:brycebaril/infinite-monkey-db.git"
+  },
+  "keywords": [
+    "webscale"
+  ],
+  "author": "Bryce B. Baril",
+  "license": "FAIHL",
+  "bugs": {
+    "url": "https://github.com/brycebaril/infinite-monkey-db/issues"
+  }
+}
