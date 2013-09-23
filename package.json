@@ -4,7 +4,7 @@
   "description": "The eventually-correct database!",
   "main": "index.js",
   "dependencies": {
-    "readable-stream": "~1.0.2",
+    "readable-stream": "~1.1.0",
     "stream-meter": "~1.0.0",
     "timegap": "~0.1.1"
   },
