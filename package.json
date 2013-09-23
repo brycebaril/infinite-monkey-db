@@ -1,6 +1,6 @@
 {
   "name": "infinite-monkey-db",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The eventually-correct database!",
   "main": "index.js",
   "dependencies": {
